@@ -2,6 +2,12 @@ window.addEventListener("DOMContentLoaded", domLoaded);
 
 function domLoaded() {
    // TODO: Complete the function
+
+   document.getElementById("convertButton").addEventListener("click", 
+   )
+
+
+
 }
 
 function convertCtoF(degreesCelsius) {
